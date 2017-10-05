@@ -4,9 +4,6 @@ using Microsoft.Xna.Framework.Input;
 
 namespace MonoGame_Linked_List
 {
-    /// <summary>
-    /// This is the main type for your game.
-    /// </summary>
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
