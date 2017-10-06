@@ -51,3 +51,30 @@ D:\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\Mo
 D:\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.csproj.CoreCompileInputs.cache
 D:\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.exe
 D:\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.pdb
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\MonoGame_Linked_List.exe
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\MonoGame_Linked_List.pdb
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.csprojResolveAssemblyReference.cache
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.DisplayText.resources
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.PopUp.resources
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.csproj.GenerateResource.Cache
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.csproj.CoreCompileInputs.cache
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.exe
+D:\OneDrive - Bay Path Regional School District\Shop\Shop\Main Files\2017\10 October\10.5.17\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.pdb

@@ -54,6 +54,7 @@ namespace MonoGame_Linked_List
             dis.setText(textBox2.Text);
             dis.setAuthor(textBox1.Text);
             dis.Show();
+            this.Hide();
 
         }
         private string getAuthor()
