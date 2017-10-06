@@ -12,6 +12,7 @@ namespace MonoGame_Linked_List
 {
     public partial class PopUp : Form
     {
+        DisplayText dis;
         public PopUp()
         {
             InitializeComponent();
@@ -49,7 +50,22 @@ namespace MonoGame_Linked_List
         private void button1_Click(object sender, EventArgs e)
         {
             // Submit
+            dis = new DisplayText();
+            dis.setText(textBox2.Text);
+            dis.setAuthor(textBox1.Text);
+            dis.Show();
 
+        }
+        private string getAuthor()
+        {
+            String author = textBox1.Text;
+            return author;
+        }
+
+        private string getPost()
+        {
+            String post = textBox2.Text;
+            return post;
         }
     }
 }
