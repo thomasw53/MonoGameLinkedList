@@ -14,6 +14,8 @@ namespace MonoGame_Linked_List
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            PopUp win = new PopUp();
+            win.Show();
         }
 
         protected override void Initialize()

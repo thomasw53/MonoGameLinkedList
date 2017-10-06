@@ -17,9 +17,6 @@ namespace MonoGame_Linked_List
         {
             using (var game = new Game1())
                 game.Run();
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
         }
     }
 #endif

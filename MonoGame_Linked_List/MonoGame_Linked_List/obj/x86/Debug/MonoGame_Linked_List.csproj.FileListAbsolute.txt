@@ -22,5 +22,5 @@ D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedL
 D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.csproj.CoreCompileInputs.cache
 D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.exe
 D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.pdb
-D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.Form1.resources
 D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.csproj.GenerateResource.Cache
+D:\OneDrive - Bay Path Regional School District\Shop\Senior Year\MonoGameLinkedList\MonoGame_Linked_List\MonoGame_Linked_List\obj\x86\Debug\MonoGame_Linked_List.PopUp.resources
